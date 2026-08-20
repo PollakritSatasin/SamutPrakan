@@ -1,0 +1,267 @@
+{
+  "case_id": "chest_pressure_walk_in",
+  "specialty": "cardiology",
+  "learning_objectives": [
+    "Elicit a focused chest-pain history using OPQRST",
+    "Identify cardiac risk factors and red-flag associated symptoms",
+    "Perform a relevant cardiovascular and respiratory exam",
+    "Communicate findings and next steps without alarming the patient"
+  ],
+  "metadata": {
+    "title": "Chest Pressure After Walking From the Taxi Stand",
+    "chief_complaint": "Tight, heavy pain in the middle of my chest for about 40 minutes.",
+    "setting": "Emergency department, Samut Prakan — afternoon walk-in after driving a taxi shift"
+  },
+  "hidden": {
+    "final_diagnosis": "Acute coronary syndrome (NSTEMI most likely)",
+    "differential_diagnoses": [
+      "Unstable angina",
+      "STEMI",
+      "Aortic dissection",
+      "Pulmonary embolism",
+      "Gastroesophageal reflux / peptic ulcer",
+      "Musculoskeletal chest wall pain"
+    ],
+    "student_forbidden_terms": [
+      "acute coronary syndrome",
+      "ACS",
+      "NSTEMI",
+      "STEMI",
+      "myocardial infarction",
+      "heart attack",
+      "unstable angina",
+      "aortic dissection",
+      "pulmonary embolism"
+    ],
+    "teaching_points": [
+      "Gate radiation, diaphoresis, nausea, smoking, and family history until asked",
+      "Do not volunteer that the statin was stopped last month"
+    ]
+  },
+  "disclosure_notes": "Volunteer the crushing chest pressure and that it started while walking. Disclose radiation to the left arm, sweating, and nausea only if asked. Do not volunteer the family history of early MI or that you stopped your statin last month unless specifically asked. Never use terms like 'myocardial infarction' or 'ACS'.",
+  "patient_profile": {
+    "full_name": "Somchai Prasert",
+    "preferred_name": "Somchai",
+    "age_years": 58,
+    "sex": "male",
+    "occupation": "Taxi driver",
+    "living_situation": "Lives with wife in a ground-floor apartment in Samut Prakan",
+    "demeanor": "Anxious and slightly restless, cooperative but short of breath when speaking in long sentences. Wants reassurance that this is just indigestion.",
+    "language_style": {
+      "primary_language": "Thai",
+      "speech_register": "colloquial",
+      "uses_medical_jargon": false,
+      "accent_or_dialect": "Central Thai",
+      "speech_notes": "Uses lay terms such as 'tightness like someone sitting on my chest' and 'sweating like I ran'. Speaks in short sentences. Avoids medical words."
+    }
+  },
+  "clinical_history": {
+    "chief_complaint": "Tight, heavy pain in the middle of my chest for about 40 minutes.",
+    "history_of_present_illness": "The pain started suddenly while I was walking from the taxi stand after lunch. It feels like a heavy pressure in the middle of my chest. I sat down but it has not gone away.",
+    "opqrst": {
+      "onset": "Sudden, about 40 minutes ago while walking after lunch",
+      "provocation_palliation": "Worse with walking; sitting and rest have not helped; no antacids taken",
+      "quality": "Crushing, heavy pressure, 'like an elephant sitting on my chest'",
+      "region_radiation": "Central chest, radiates to the left arm and jaw",
+      "severity": "8 out of 10 at worst, now 7 out of 10",
+      "time_course": "Continuous since onset, no prior identical episodes; occasional 'indigestion' after heavy meals for 2 weeks"
+    },
+    "associated_symptoms": [
+      "Diaphoresis",
+      "Nausea",
+      "Mild shortness of breath"
+    ],
+    "pertinent_negatives": [
+      "No syncope",
+      "No palpitations",
+      "No cough or fever",
+      "No tearing back pain"
+    ],
+    "past_medical_history": [
+      "Hypertension for 8 years",
+      "Type 2 diabetes for 5 years",
+      "Dyslipidemia"
+    ],
+    "medications": [
+      {
+        "name": "Amlodipine",
+        "dose": "5 mg",
+        "frequency": "once daily",
+        "indication": "Blood pressure"
+      },
+      {
+        "name": "Metformin",
+        "dose": "500 mg",
+        "frequency": "twice daily",
+        "indication": "Diabetes"
+      },
+      {
+        "name": "Atorvastatin",
+        "dose": "20 mg",
+        "frequency": "at night (stopped 1 month ago)",
+        "indication": "Cholesterol"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "No known drug allergies",
+        "reaction": "None"
+      }
+    ],
+    "social_history": {
+      "tobacco": "Smokes 10 cigarettes per day for 25 years",
+      "alcohol": "Beer 2–3 times per week",
+      "recreational_drugs": "Denies",
+      "diet_and_exercise": "Irregular meals, mostly fried food; little exercise",
+      "occupation_exposures": "Long hours sitting in traffic"
+    },
+    "family_history": [
+      {
+        "relation": "Father",
+        "condition": "Fatal heart attack at age 52",
+        "notes": "Patient describes it as 'a heart problem, he died suddenly'"
+      },
+      {
+        "relation": "Mother",
+        "condition": "Type 2 diabetes",
+        "notes": null
+      }
+    ],
+    "review_of_systems_positives": [
+      "Occasional ankle swelling at the end of long driving days"
+    ]
+  },
+  "pe_findings": {
+    "vitals": {
+      "blood_pressure_mmhg": "158/94",
+      "heart_rate_bpm": 102,
+      "respiratory_rate": 22,
+      "temperature_c": 36.8,
+      "spo2_percent": 96,
+      "pain_score_0_to_10": 7
+    },
+    "general": "Middle-aged man sitting upright, diaphoretic, clutching the center of his chest, speaking in short phrases.",
+    "heent": {
+      "head": "Normocephalic, atraumatic, diaphoretic scalp",
+      "eyes": "No pallor or icterus; pupils equal and reactive",
+      "ears": "Canals clear, no discharge",
+      "nose": "Nares patent, no epistaxis",
+      "throat": "Moist mucous membranes, no exudate",
+      "neck": "No JVD, no carotid bruits, trachea midline"
+    },
+    "respiratory": {
+      "inspection": "Mild tachypnea, no cyanosis",
+      "percussion": "Resonant bilaterally",
+      "auscultation": "Clear breath sounds, no crackles or wheeze",
+      "work_of_breathing": "Mildly increased, speaking in short sentences"
+    },
+    "cardiovascular": {
+      "inspection": "No chest wall deformity; mild diaphoresis",
+      "palpation": "No chest-wall tenderness; PMI not displaced",
+      "auscultation": "Tachycardic, regular; S1/S2 present; no murmur, rub, or gallop",
+      "pulses": "Radial pulses equal and regular; no radio-radial delay",
+      "edema": "Trace pretibial edema bilaterally"
+    },
+    "abdomen": {
+      "inspection": "Soft, non-distended abdomen",
+      "auscultation": "Normoactive bowel sounds",
+      "percussion": "Tympanic, no shifting dullness",
+      "palpation": "Non-tender, no masses, no organomegaly",
+      "peritoneal_signs": "None"
+    },
+    "neurologic": {
+      "mental_status": "Alert and oriented, anxious",
+      "cranial_nerves": "Grossly intact",
+      "motor": "5/5 strength in all limbs",
+      "sensory": "Intact to light touch",
+      "reflexes": "2+ and symmetric",
+      "gait_or_coordination": "Not assessed; patient remains seated due to pain"
+    },
+    "musculoskeletal": {
+      "inspection": "No chest wall deformity or rash",
+      "palpation": "No reproducible chest-wall or costochondral tenderness",
+      "range_of_motion": "Shoulders move freely without changing the chest pressure",
+      "strength": "Grip and upper-limb strength 5/5",
+      "special_tests": "Chest-wall compression does not reproduce the pain"
+    }
+  },
+  "osce_checklist": {
+    "station_title": "Chest pain — history and focused exam",
+    "time_limit_minutes": 12,
+    "passing_score": 16,
+    "items": [
+      {
+        "id": "intro_name_role",
+        "category": "introduction_and_rapport",
+        "description": "Introduces self, role, and confirms patient identity",
+        "points": 1,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "hx_opqrst",
+        "category": "history_taking",
+        "description": "Elicits OPQRST features of chest pain",
+        "points": 4,
+        "required": true,
+        "scoring_notes": "Must cover onset, quality, radiation, severity, and time course"
+      },
+      {
+        "id": "hx_associated",
+        "category": "history_taking",
+        "description": "Asks about diaphoresis, nausea, dyspnea, syncope",
+        "points": 2,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "hx_risk_factors",
+        "category": "history_taking",
+        "description": "Explores cardiac risk factors (HTN, DM, smoking, family history, meds)",
+        "points": 3,
+        "required": true,
+        "scoring_notes": "Must ask about smoking and family history"
+      },
+      {
+        "id": "pe_vitals_general",
+        "category": "physical_examination",
+        "description": "Comments on distress, diaphoresis, and vital signs",
+        "points": 2,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "pe_cardio_resp",
+        "category": "physical_examination",
+        "description": "Performs focused cardiovascular and respiratory exam",
+        "points": 3,
+        "required": true,
+        "scoring_notes": "Heart sounds, pulses, lung auscultation"
+      },
+      {
+        "id": "comm_lay_terms",
+        "category": "communication",
+        "description": "Explains concern and next steps in lay language",
+        "points": 2,
+        "required": true,
+        "scoring_notes": "Avoid jargon; acknowledge anxiety"
+      },
+      {
+        "id": "reason_acs",
+        "category": "clinical_reasoning",
+        "description": "Recognizes possible acute coronary syndrome and urgency",
+        "points": 3,
+        "required": true,
+        "scoring_notes": "Does not need to name ACS to the patient"
+      },
+      {
+        "id": "prof_respect",
+        "category": "professionalism",
+        "description": "Maintains respect, consent, and draping throughout",
+        "points": 1,
+        "required": true,
+        "scoring_notes": null
+      }
+    ]
+  }
+}

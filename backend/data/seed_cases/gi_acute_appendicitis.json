@@ -1,0 +1,248 @@
+{
+  "case_id": "migratory_abdominal_pain",
+  "specialty": "gastroenterology",
+  "learning_objectives": [
+    "Characterize abdominal pain including migration from periumbilical to right lower quadrant",
+    "Screen for peritoneal signs and GI red flags",
+    "Perform a systematic abdominal examination",
+    "Explain the need for urgent surgical assessment in lay terms"
+  ],
+  "metadata": {
+    "title": "Belly Pain That Moved to the Lower Right Side",
+    "chief_complaint": "Stomach pain that started near my belly button and moved to the lower right side.",
+    "setting": "Urgent care clinic adjacent to a university campus — morning walk-in"
+  },
+  "hidden": {
+    "final_diagnosis": "Acute appendicitis",
+    "differential_diagnoses": [
+      "Mesenteric adenitis",
+      "Ovarian torsion",
+      "Ectopic pregnancy",
+      "Pelvic inflammatory disease",
+      "Right ureteric colic",
+      "Gastroenteritis"
+    ],
+    "student_forbidden_terms": [
+      "appendicitis",
+      "appendix",
+      "mesenteric adenitis",
+      "ovarian torsion",
+      "ectopic pregnancy",
+      "pelvic inflammatory disease"
+    ],
+    "teaching_points": [
+      "Volunteer periumbilical-to-RLQ migration; gate anorexia, fever, and pain with walking",
+      "Do not volunteer delayed presentation because of 'bad gas'"
+    ]
+  },
+  "disclosure_notes": "Volunteer that the pain started around the belly button and later moved to the right lower side. Disclose anorexia, low-grade fever, and pain worse with walking or coughing only if asked. Do not volunteer that you delayed coming because you thought it was 'bad gas'. Never use the word 'appendicitis'.",
+  "patient_profile": {
+    "full_name": "Nattaya Wongchai",
+    "preferred_name": "Nattaya",
+    "age_years": 24,
+    "sex": "female",
+    "occupation": "University student",
+    "living_situation": "Shares a rented room near campus with a classmate",
+    "demeanor": "Uncomfortable, prefers to lie still with knees slightly flexed. Irritable when asked to sit up quickly, but polite. Embarrassed about nausea.",
+    "language_style": {
+      "primary_language": "Thai",
+      "speech_register": "plain",
+      "uses_medical_jargon": false,
+      "accent_or_dialect": "Central Thai",
+      "speech_notes": "Describes pain as 'a sharp poke on the lower right' and 'I don't want to eat anything'. Short answers when pain spikes. Avoids medical terms."
+    }
+  },
+  "clinical_history": {
+    "chief_complaint": "Stomach pain that started near my belly button and moved to the lower right side.",
+    "history_of_present_illness": "The pain began yesterday afternoon around the navel as a dull ache. Overnight it became sharper and settled in the right lower abdomen.",
+    "opqrst": {
+      "onset": "Gradual yesterday afternoon, then migrated overnight",
+      "provocation_palliation": "Worse with walking, coughing, and hitting bumps on the motorbike; lying still helps a little; no relief with paracetamol",
+      "quality": "Started dull and crampy, now constant and sharp",
+      "region_radiation": "Periumbilical then to the right lower quadrant; no back or groin radiation",
+      "severity": "Started 4/10, now 8/10",
+      "time_course": "About 18 hours, steadily worsening, no similar prior episodes"
+    },
+    "associated_symptoms": [
+      "Anorexia",
+      "Nausea",
+      "One episode of vomiting this morning",
+      "Low-grade fever"
+    ],
+    "pertinent_negatives": [
+      "No diarrhea",
+      "No dysuria or frequency",
+      "No vaginal bleeding",
+      "Last menstrual period 2 weeks ago, regular"
+    ],
+    "past_medical_history": [
+      "No chronic illnesses",
+      "No prior abdominal surgery"
+    ],
+    "medications": [
+      {
+        "name": "Paracetamol",
+        "dose": "500 mg",
+        "frequency": "taken twice since yesterday",
+        "indication": "Pain"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Penicillin",
+        "reaction": "Itchy rash as a child"
+      }
+    ],
+    "social_history": {
+      "tobacco": "Never smoked",
+      "alcohol": "Occasional beer on weekends",
+      "recreational_drugs": "Denies",
+      "diet_and_exercise": "Irregular student meals; plays badminton twice a week",
+      "occupation_exposures": "None"
+    },
+    "family_history": [
+      {
+        "relation": "Mother",
+        "condition": "Gallstones",
+        "notes": "Cholecystectomy 4 years ago"
+      }
+    ],
+    "review_of_systems_positives": [
+      "Feels flushed",
+      "Avoids moving the right hip because it hurts"
+    ]
+  },
+  "pe_findings": {
+    "vitals": {
+      "blood_pressure_mmhg": "118/74",
+      "heart_rate_bpm": 98,
+      "respiratory_rate": 18,
+      "temperature_c": 38.1,
+      "spo2_percent": 99,
+      "pain_score_0_to_10": 8
+    },
+    "general": "Young woman lying still on her side with hips flexed, grimacing when asked to sit up, not jaundiced.",
+    "heent": {
+      "head": "Normocephalic, atraumatic",
+      "eyes": "No icterus or conjunctival pallor",
+      "ears": "Unremarkable",
+      "nose": "Nares patent",
+      "throat": "Dry lips, otherwise unremarkable oropharynx",
+      "neck": "Supple, no lymphadenopathy"
+    },
+    "respiratory": {
+      "inspection": "Comfortable at rest, no cyanosis",
+      "percussion": "Resonant",
+      "auscultation": "Clear bilaterally",
+      "work_of_breathing": "Normal; splints slightly with deep inspiration due to abdominal pain"
+    },
+    "cardiovascular": {
+      "inspection": "No chest wall abnormality",
+      "palpation": "PMI non-displaced",
+      "auscultation": "Regular tachycardia, no murmur",
+      "pulses": "Equal radial pulses",
+      "edema": "None"
+    },
+    "abdomen": {
+      "inspection": "No scars or distension; patient guards the right lower abdomen",
+      "auscultation": "Bowel sounds present but reduced",
+      "percussion": "Tympanic; tenderness to percussion over the right lower quadrant",
+      "palpation": "Maximal tenderness at McBurney's point; localized guarding; Rovsing sign positive",
+      "peritoneal_signs": "Localized peritonism in the RLQ; rebound tenderness present; no generalized rigidity"
+    },
+    "neurologic": {
+      "mental_status": "Alert and oriented, uncomfortable",
+      "cranial_nerves": "Grossly intact",
+      "motor": "Normal strength; reluctant to flex right hip fully due to pain",
+      "sensory": "Intact",
+      "reflexes": "2+ and symmetric",
+      "gait_or_coordination": "Walks slowly, bent forward, avoiding heel strike on the right"
+    },
+    "musculoskeletal": {
+      "inspection": "Prefers hips flexed; no joint swelling",
+      "palpation": "No spinal or costovertebral-angle tenderness",
+      "range_of_motion": "Right hip flexion limited by abdominal pain, not by the joint itself",
+      "strength": "Lower-limb strength 5/5 when tested supine",
+      "special_tests": "Psoas sign positive on the right; obturator sign equivocal"
+    }
+  },
+  "osce_checklist": {
+    "station_title": "Acute abdomen — history and abdominal exam",
+    "time_limit_minutes": 12,
+    "passing_score": 16,
+    "items": [
+      {
+        "id": "intro_consent",
+        "category": "introduction_and_rapport",
+        "description": "Introduces self and obtains consent for history and exam",
+        "points": 1,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "hx_pain_migration",
+        "category": "history_taking",
+        "description": "Elicits onset, migration, and current location of pain",
+        "points": 3,
+        "required": true,
+        "scoring_notes": "Must capture periumbilical to RLQ migration"
+      },
+      {
+        "id": "hx_opqrst_gi",
+        "category": "history_taking",
+        "description": "Completes OPQRST and associated GI symptoms (anorexia, nausea, vomiting, fever)",
+        "points": 3,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "hx_gyn_gu",
+        "category": "history_taking",
+        "description": "Asks menstrual, pregnancy-risk, and urinary symptoms",
+        "points": 2,
+        "required": true,
+        "scoring_notes": "Essential in a young woman with abdominal pain"
+      },
+      {
+        "id": "pe_inspection_auscultation",
+        "category": "physical_examination",
+        "description": "Inspects abdomen and auscultates before palpation",
+        "points": 2,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "pe_rlq_peritonism",
+        "category": "physical_examination",
+        "description": "Palpates gently, localizes RLQ tenderness, and checks for rebound/guarding",
+        "points": 3,
+        "required": true,
+        "scoring_notes": "Should not start with deep palpation of the painful area"
+      },
+      {
+        "id": "comm_explanation",
+        "category": "communication",
+        "description": "Explains concern for an inflamed appendix in lay terms and next steps",
+        "points": 2,
+        "required": true,
+        "scoring_notes": "Avoid the word appendicitis unless the patient asks"
+      },
+      {
+        "id": "reason_acute_abdomen",
+        "category": "clinical_reasoning",
+        "description": "Recognizes likely appendicitis and need for urgent surgical review",
+        "points": 3,
+        "required": true,
+        "scoring_notes": null
+      },
+      {
+        "id": "prof_privacy",
+        "category": "professionalism",
+        "description": "Protects privacy, explains each exam step, and responds to pain",
+        "points": 1,
+        "required": true,
+        "scoring_notes": null
+      }
+    ]
+  }
+}
