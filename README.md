@@ -6,11 +6,11 @@ AI Simulated Patient (SP) training platform for medical students to practice his
 
 ```
 backend/                 FastAPI service
-  app/api/              HTTP routers
-  app/core/             Settings
+  app/api/v1/           REST API (cases, sessions)
+  app/core/             Settings and database
   app/models/           SQLAlchemy models
-  app/schemas/          Pydantic v2 case schemas
-  app/services/         Case loading and domain logic
+  app/schemas/          Pydantic v2 case and session schemas
+  app/services/         Case loading, session state, prompt builder
   data/seed_cases/      Sample clinical cases (JSON)
   tests/                Pytest schema/loader tests
 ```

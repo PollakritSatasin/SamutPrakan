@@ -22,7 +22,10 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 - Health: `GET /health`
-- Student case cards (title, chief complaint, setting only): `GET /api/v1/cases`
+- List cases: `GET /api/v1/cases`
+- Case overview (no hidden diagnosis): `GET /api/v1/cases/{case_id}`
+- Start session: `POST /api/v1/sessions` with `{"case_id": "..."}`
+- Complete session: `POST /api/v1/sessions/{session_id}/complete`
 - Faculty/full case (hidden diagnosis included): `GET /api/v1/cases/{case_id}/faculty`
 - OpenAPI docs: `/docs`
 
